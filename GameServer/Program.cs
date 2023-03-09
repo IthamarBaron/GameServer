@@ -5,7 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Threading;
 using System.Net;
-using System.Security.Cryptography.X509Certificates;
 
 namespace GameServer
 {
